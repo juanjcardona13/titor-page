@@ -1,0 +1,1 @@
+# Stronglify App Connector
